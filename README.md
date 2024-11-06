@@ -4,7 +4,7 @@
 - Outdated
 
 # How to setup?
-- u cant lol since its mongo 💀
+- figure it out im lazy asl 🔥
 
 # Info
 - made by ripbing/liar

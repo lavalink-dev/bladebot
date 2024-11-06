@@ -1,2 +1,9 @@
-# bladebot
-an actual good bot from 2021
+# Blade
+- MongoDB
+- 2021 code
+- Outdated
+
+# How to setup?
+- u cant lol since its mongo 💀
+
+  
